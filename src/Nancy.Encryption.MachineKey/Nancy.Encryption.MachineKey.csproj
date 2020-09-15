@@ -1,5 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
+    <PackageId>Nancy.Encryption.MachineKey.StrongName</PackageId>
     <Description>System.Web MachineKey encrypton and HMAC providers for Nancy.</Description>
     <PackageTags>$(PackageTags);Encryption</PackageTags>
     <TargetFramework>net452</TargetFramework>

@@ -1,5 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
+    <PackageId>Nancy.Owin.StrongName</PackageId>
     <Description>Nancy extensions for OWIN hosting.</Description>
     <PackageTags>$(PackageTags);OWIN</PackageTags>
     <TargetFramework>net452</TargetFramework>

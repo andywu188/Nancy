@@ -1,5 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
+    <PackageId>Nancy.ViewEngines.Spark.StrongName</PackageId>
     <Description>Enables using the Spark view engine with Nancy.</Description>
     <PackageTags>$(PackageTags);View Engine;Spark</PackageTags>
     <TargetFramework>net452</TargetFramework>

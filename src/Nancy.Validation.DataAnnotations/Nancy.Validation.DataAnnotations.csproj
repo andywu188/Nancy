@@ -1,5 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
+    <PackageId>Nancy.Validation.DataAnnotations.StrongName</PackageId>
     <Description>Adds Data Annotation validation support to Nancy.</Description>
     <PackageTags>$(PackageTags);Validation;DataAnnotations</PackageTags>
     <TargetFramework>net452</TargetFramework>

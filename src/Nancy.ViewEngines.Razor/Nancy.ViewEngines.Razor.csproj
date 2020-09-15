@@ -1,5 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
+    <PackageId>Nancy.ViewEngines.Razor.StrongName</PackageId>
     <Description>Enables using the Razor view engine with Nancy.</Description>
     <PackageTags>$(PackageTags);View Engine;Razor</PackageTags>
     <TargetFramework>net452</TargetFramework>

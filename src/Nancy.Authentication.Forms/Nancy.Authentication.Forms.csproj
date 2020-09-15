@@ -1,5 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
+    <PackageId>Nancy.Authentication.Forms.StrongName</PackageId>
     <Description>A forms authentication provider for Nancy.</Description>
     <PackageTags>$(PackageTags);Authentication</PackageTags>
     <TargetFrameworks>netstandard2.0;net452</TargetFrameworks>

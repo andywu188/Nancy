@@ -1,5 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
+    <PackageId>Nancy.Testing.StrongName</PackageId>
     <Description>Test harness for Nancy applications.</Description>
     <PackageTags>$(PackageTags);Testing</PackageTags>
     <TargetFrameworks>netstandard2.0;net452</TargetFrameworks>

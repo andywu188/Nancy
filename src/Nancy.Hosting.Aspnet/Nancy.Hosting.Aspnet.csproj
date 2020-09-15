@@ -1,5 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
+    <PackageId>Nancy.Hosting.Aspnet.StrongName</PackageId>
     <Description>Enables hosting Nancy on ASP.NET.</Description>
     <PackageTags>$(PackageTags);Host</PackageTags>
     <TargetFramework>net452</TargetFramework>

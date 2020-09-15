@@ -1,5 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
+    <PackageId>Nancy.ViewEngines.DotLiquid.StrongName</PackageId>
     <Description>Enables using the DotLiquid view engine with Nancy.</Description>
     <PackageTags>$(PackageTags);View Engine;DotLiquid</PackageTags>
     <TargetFramework>net452</TargetFramework>
